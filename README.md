@@ -3,8 +3,30 @@
 <h3 align="center">Image Processing and Computer Vision Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=getnetdemil&label=Profile%20views&color=0e75b6&style=flat-square" alt="getnetdemil" /> </p>
+<p align="left">
+  <a href="https://getnetdemil.github.io/files/Getnet_Demil_Resume.pdf" target="blank">
+    <img src="https://img.shields.io/badge/View-My%20Resume-blue?style=for-the-badge" alt="My Resume" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/getnetdemil" target="blank"><img src="https://img.shields.io/twitter/follow/getnetdemil?logo=twitter&style=for-the-badge" alt="getnetdemil" /></a> </p>
+<p align="left">
+  <a href="https://getnetdemil.github.io" target="blank">
+    <img src="https://img.shields.io/badge/Visit-My%20Webpage-blue?style=for-the-badge" alt="My Webpage" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/getnetdemil" target="blank">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="getnetdemil" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://medium.com/@getnetdemil" target="blank">
+    <img src="https://img.shields.io/badge/Follow-Medium-black?logo=medium&style=for-the-badge" alt="getnetdemil" />
+  </a>
+</p>
+
 
 
 - 💬 Talking about **Deep Learning, AI, Computer Vision, Robotics**
