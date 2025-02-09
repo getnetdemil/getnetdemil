@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Getnet Demil</h1>
 <h3 align="center">My webpage: https://getnetdemil.github.io</h3>
 <h3 align="center">Image Processing and Computer Vision Engineer</h3>
-<h4 align= "justify"> Hello and welcome to my webpage! My name is Getnet Demil Jenberia, and I am currently pursuing three joint master's degrees in Image Processing and Computer Vision from Pázmány Péter Catholic University (Hungary), Universidad Autonoma de Madrid (Spain) and University of Bordeaux (France). Prior to this, I completed a Master of Science in Communication System Engineering and a Bachelor of Science in Electrical, Electronics, and Communications Engineering from Bahir Dar Institute of Technology, Bahir Dar University (Ethiopia).</h4>
+<h4 align= "justify"> Hello and welcome to my webpage! My name is Getnet Demil Jenberia, and I am currently working as a Doctoral researcher at the University of Oulu, holding triple joint master's degrees in Image Processing and Computer Vision from Pázmány Péter Catholic University (Hungary), Universidad Autonoma de Madrid (Spain) and University of Bordeaux (France). Prior to this, I completed a Master of Science in Communication System Engineering and a Bachelor of Science in Electrical, Electronics, and Communications Engineering from Bahir Dar Institute of Technology, Bahir Dar University (Ethiopia).</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=getnetdemil&label=Profile%20views&color=0e75b6&style=flat-square" alt="getnetdemil" /> </p>
 <p align="left">
